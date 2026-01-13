@@ -1,2 +1,2 @@
 # MathLang
-Un langage de programmation basé essentiellement autour des maths
+bienvenue dans le monde 
